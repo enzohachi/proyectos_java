@@ -4,12 +4,11 @@
 package patroncuadrado;
 
 /**
- * @author Nonita
+  @author enzohachi
  *
  */
 import java.util.Scanner;
 public class Patroncuadrado {
-
 	/**
 	 * @param args
 	 */
