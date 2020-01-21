@@ -28,7 +28,7 @@ public class Patronz {
 //ó
 // columna = n -1 es para posicionarse en el extremo inferior de la matriz
 //ó
-// columna == n -1 - fila es para posicionarse en forma de backslash o slash invertido y asi poder formar la "Z"
+// columna == n -1 - fila es para posicionarse en forma de slash y asi poder formar la "Z"
 			// tambien podria ser fila ==n-1-columna y daria el mismo resultado
 	            
 			if (fila == 0 || fila == n - 1 || columna == n - 1 - fila) {
